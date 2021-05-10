@@ -5,3 +5,4 @@
 - SciPy
 - Plotly
 - Scikit-learn
+- Matplotlib
