@@ -4,3 +4,4 @@
 - NumPy
 - SciPy
 - Plotly
+- Scikit-learn
